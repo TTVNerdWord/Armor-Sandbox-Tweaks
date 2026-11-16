@@ -40,6 +40,24 @@
           "localizedDescription": "Version 1.9.2 release update."
         }
       ]
+    },
+    {
+      "name": "Armor Sandbox (2.5.1)",
+      "bundleIdentifier": "com.armorsimulation.app.armorsandbox251",
+      "developerName": "Self-Published",
+      "subtitle": "Sideloaded Build",
+      "localizedDescription": "Sideloaded build for Armor Sandbox (2.5.1) compiled dynamically.",
+      "iconURL": "https://raw.githubusercontent.com/TTVNerdWord/Armor-Sandbox-Tweaks/main/Images/AS.png",
+      "tintColor": "#007AFF",
+      "versions": [
+        {
+          "version": "2.5.1",
+          "date": "2026-11-16",
+          "downloadURL": "https://TTVNerdWord.github.io/Armor-Sandbox-Tweaks/IPAs/ArmorSandbox-2.5.1.ipa",
+          "size": 5082986,
+          "localizedDescription": "Version 2.5.1 release update."
+        }
+      ]
     }
   ],
   "news": []
