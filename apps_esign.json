@@ -6,6 +6,24 @@
   "tintColor": "#007AFF",
   "apps": [
     {
+      "name": "Armor Sandbox (2.5.1)",
+      "bundleIdentifier": "com.armorsimulation.app.251premiumactive",
+      "developerName": "Self-Published",
+      "subtitle": "Sideloaded Build",
+      "localizedDescription": "Sideloaded build for Armor Sandbox (2.5.1) compiled dynamically.",
+      "iconURL": "https://raw.githubusercontent.com/TTVNerdWord/Armor-Sandbox-Tweaks/main/Images/AS.png",
+      "tintColor": "#007AFF",
+      "versions": [
+        {
+          "version": "2.5.1",
+          "date": "2026-11-16",
+          "downloadURL": "https://TTVNerdWord.github.io/Armor-Sandbox-Tweaks/IPAs/2.5.1-PremiumActive.ipa",
+          "size": 5075403,
+          "localizedDescription": "Version 2.5.1 release update."
+        }
+      ]
+    },
+    {
       "name": "Armor Sandbox (2.5.0)",
       "bundleIdentifier": "com.armorsimulation.app.250premiumactive",
       "developerName": "Self-Published",
@@ -24,38 +42,20 @@
       ]
     },
     {
-      "name": "1.9.2-FullTweak (1.0.0)",
-      "bundleIdentifier": "com.custom.1.9.2-fulltweak.192fulltweak",
+      "name": "Armor Sandbox (1.9.2)",
+      "bundleIdentifier": "com.armorsimulation.app.192fulltweak",
       "developerName": "Self-Published",
       "subtitle": "Sideloaded Build",
-      "localizedDescription": "Sideloaded build for 1.9.2-FullTweak (1.0.0) compiled dynamically.",
+      "localizedDescription": "Sideloaded build for Armor Sandbox (1.9.2) compiled dynamically.",
       "iconURL": "https://raw.githubusercontent.com/TTVNerdWord/Armor-Sandbox-Tweaks/main/Images/AS.png",
       "tintColor": "#007AFF",
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "1.9.2",
           "date": "2026-11-16",
           "downloadURL": "https://TTVNerdWord.github.io/Armor-Sandbox-Tweaks/IPAs/1.9.2-FullTweak.ipa",
-          "size": 2,
-          "localizedDescription": "Version 1.0.0 release update."
-        }
-      ]
-    },
-    {
-      "name": "2.5.1-PremiumBypass (1.0.0)",
-      "bundleIdentifier": "com.custom.2.5.1-premiumbypass.251premiumbypass",
-      "developerName": "Self-Published",
-      "subtitle": "Sideloaded Build",
-      "localizedDescription": "Sideloaded build for 2.5.1-PremiumBypass (1.0.0) compiled dynamically.",
-      "iconURL": "https://raw.githubusercontent.com/TTVNerdWord/Armor-Sandbox-Tweaks/main/Images/AS.png",
-      "tintColor": "#007AFF",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "date": "2026-11-16",
-          "downloadURL": "https://TTVNerdWord.github.io/Armor-Sandbox-Tweaks/IPAs/2.5.1-PremiumBypass.ipa",
-          "size": 2,
-          "localizedDescription": "Version 1.0.0 release update."
+          "size": 5288343,
+          "localizedDescription": "Version 1.9.2 release update."
         }
       ]
     }
